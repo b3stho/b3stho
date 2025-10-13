@@ -9,7 +9,8 @@
   + Vulnerability Assessments
 
 - **Mentoring:**
-  + [2022] Open Source Contribution Academy - Project Discovery
+  + [2022] Open Source Contribution Academy [team: Project Discovery]
+  + [2016]  디지털 범인을 찾아라 4th - Silver Prize
 
 ## Certifications
 
