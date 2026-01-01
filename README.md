@@ -1,4 +1,4 @@
-# **[b3stho]** | Information Security Consultant
+# **[b3stho]** | Cyber Security Consultant
 
 - **Email:** [b3stho@gmail.com](mailto:b3stho@gmail.com)
 
